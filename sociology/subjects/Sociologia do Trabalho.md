@@ -18,8 +18,46 @@ Esse paradigma leva:
 
 ---
 ### Avanços Técnicos e Tecnológicos
-- **Revolução Agrícola:** início da sedentarização da espécie humana e revoluções industriais
+- **Revolução Agrícola:** início da sedentarização da espécie humana e revoluções industriais, reponsáveis por ampliar a produtividade.
+- Três revoluções industriais com diversas inovações no campo da mecânica, eletricidade e informática mudam formas de produzir, distribuir, circular e informar. Além de, especialmente, afetar as relações de trabalho.
+> Todas as revoluções desencadeam ondas de insegurança entre os trabalhadores.
+- A história nos mostra que a adaptação as transformações trazidas pela inovação, apesar de tornar a vida dos indíviduos mais cômoda, leva a precarização do trabalho.
+#TODO estudar mais sobre ludismo
+#TODO estudar visão marxista disso tudo
 
+- As revoluções tecnológicas prejudicam especialmente as classes sociais mais desfavorecidas, que já sofrem com a desigualdade.
+
+> A venda da força de trabalho para garantir a subsistência tem sido uma característica das sociedades modernas, em especial depois da Revolução industrial e da consolidação do modo de produção capitalista.
+
+
+---
+### Novas configurações do mundo do trabalho
+- o antigo modelo fordista-taylorista, chamado de **paradigma industrial**, foi substituído por um novo modelo conhecido como **Toyotista**, caracterizando **paradigma pós-industrial**
+
+| Paradigma industrial (tendência)       | Paradigma pós-industrial                 |
+| -------------------------------------- | ---------------------------------------- |
+| Acumulação clássica                    | Acumulação flexível                      |
+| Produção em escala                     | Produção em escopo                       |
+| Produção em série                      | Produção customizada                     |
+| Orientação à oferta (recursos)         | Orientação à demanda (consumo)           |
+| Concentração territorial da produção   | Descentralização territorial da produção |
+| Integração vertical                    | Integração horizontal                    |
+| Divisão rígida do trabalho             | Divisão flexível do trabalho             |
+| Tarefas parceladas                     | Multitarefas                             |
+| Trabalho manual e individual           | Trabalho intelectual e em equipe         |
+| Treinamento para função                | Formação para o trabalho                 |
+| Foco na tarefa                         | Foco no resultado                        |
+| Liderança autocrática                  | Liderança participativa                  |
+| Regulação mediada (Estados/sindicatos) | Negociação direta (empregado/empregador) |
+
+- Nesse novo modelo o ritmo de produção já não se baseia primordialmente na disponibilidade de matérias-primas, e sim na eficiência para suprir as demandas do mercado consumidor.
+- O trabalhador deixa de ter um papel predefinido e fragmentado, uma vez que suas atividades devem ser adequadas às necessidades da equipe.
+> o que domina o fluxo de trabalho é a demanda real.
+- 
+
+---
+### Exercícios
+[[exercicios_trabalho]]
 
 
 
