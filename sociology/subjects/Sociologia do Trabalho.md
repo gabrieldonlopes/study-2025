@@ -52,8 +52,27 @@ Esse paradigma leva:
 
 - Nesse novo modelo o ritmo de produção já não se baseia primordialmente na disponibilidade de matérias-primas, e sim na eficiência para suprir as demandas do mercado consumidor.
 - O trabalhador deixa de ter um papel predefinido e fragmentado, uma vez que suas atividades devem ser adequadas às necessidades da equipe.
-> o que domina o fluxo de trabalho é a demanda real.
-- 
+- o que domina o fluxo de trabalho é a demanda real.
+---
+### Flexibilização
+- Políticas econômicas neoliberais abrem mais espaço para iniciativa privada através da flexibilização de leis trabalhistas.
+- **Modelo Toyotista** possui uma métodologia confluente com essas políticas, pois, concentra o foco na eficiência e no atendimento à demanda dos consumidores, flexibilizando processos de trabalho.
+> Contratos temporários passam a ser o padrão em setores vínculados a serviço. 
+- **Tercerização:** contrato por meio do qual a empresa transfere a outra uma ou mais de suas atividades-meio.
+o paradigma pós-industrial e a desregulamentação da economia produzem o fenômeno da flexibilização em três níveis diferentes:
+	- leis trabalhistas: maleáveis às necessidades de cada empresa.
+	- métodos de trabalho
+	- perfis de profissionais
+> A flexibilização é um eufemismo para a perda de direitos e estabilidade do trabalhador, sendo sempre negativa a quem depende da venda da sua força de trabalho.
+
+---
+### Problema do desemprego
+- Considera-se desemprefada a faixa da populaçao economicamente ativa definida como **desocupada**.
+---
+### Precarização das relações de trabalho
+
+
+#TODO fazer quadro sobre as fases do capitalismo, modelo de organização do trabalho
 
 ---
 ### Exercícios

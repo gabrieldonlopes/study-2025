@@ -81,7 +81,7 @@
 
 ## 3 Ano
 
-### Análise Combinatória
+### [[Análise Combinatória]]
 - Princípio fundamental da contagem
 - Arranjos, combinações e permutações
 
