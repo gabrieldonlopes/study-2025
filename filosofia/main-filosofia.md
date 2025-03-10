@@ -1,5 +1,4 @@
 ## 1º Ano - Introdução à Filosofia
-### 📌 Conceitos Fundamentais
 1. **Filosofia e sua origem**
 2. **Felicidade e existência**
 3. **A dúvida como método**
@@ -19,7 +18,6 @@
 ---
 
 ##  2º Ano - História da Filosofia
-###  Principais Correntes Filosóficas
 1. **Filosofia Pré-Socrática** (Tales, Anaximandro, Heráclito, Parmênides)
 2. **Filosofia Clássica e Helenística** (Sofistas, Sócrates, Platão, Aristóteles, Ceticismo, Estoicismo)
 3. **Filosofia Cristã** (Santo Agostinho, São Tomás de Aquino)
@@ -35,7 +33,6 @@
 ---
 
 ##  3º Ano - Filosofia Contemporânea e Temas Específicos
-### 📌 Grandes Temas
 1. **Ética e Filosofia Moral** (Utilitarismo, Deontologia, Virtudes)
 2. **[[Filosofia Política]]** (Contrato Social, Democracia, Liberalismo, Marxismo)
 3. **Filosofia da Ciência** (Empirismo, Positivismo, Popper, Kuhn)
