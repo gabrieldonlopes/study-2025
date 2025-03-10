@@ -67,9 +67,14 @@ o paradigma pós-industrial e a desregulamentação da economia produzem o fenô
 
 ---
 ### Problema do desemprego
-- Considera-se desemprefada a faixa da populaçao economicamente ativa definida como **desocupada**.
+- Considera-se desempregada a faixa da populaçao economicamente ativa definida como **desocupada**.
 ---
 ### Precarização das relações de trabalho
+- A flexibilização das relações de trabalho tem como consequência a precarização - diminuição da qualidade de vida.
+- Insegurança financeira e hipersolicitação, geram por isso um endividamente crônico dos trabalhadores 
+- a constante qualificação "sequestra" parte do tempo livre dos trabalhadores - caráter de extrema competitividade.
+#### Uberização
+
 
 
 #TODO fazer quadro sobre as fases do capitalismo, modelo de organização do trabalho

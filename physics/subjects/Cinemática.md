@@ -90,5 +90,20 @@ $$\alpha_m = \frac{\Delta v}{\Delta t}$$
 
 - Apenas o sinal da aceleração não determina se o movimento é acelerado ou retardado, deve-se comparar os sinais da velocidade escalar e da aceleração escalar.
 
+---
+### Movimento Uniformemente variado (MUV)
+- Movimentos que possuem aceleração escalar instantânea constante são chamados movimentos uniformemente variados.
+- Ou seja a aceleração eslacar coincide com a aceleração escalar média.
+- Existe uma proporcionalide entre a variação de velocidade e o intervalo de tempo, ou seja, a **velocidade escalar apresenta variações iguais em intervalos de tempos iguais.**
+##### Função horária da velocidade no MUV:*$$v = v_{0} + \alpha t$$
+exemplo:
+*um carro com a velocidade de 40km/h começa a acelerar constantemente a 2 m/s², depois de 5 segundos qual vai ser sua velocidade?*
+$$\left( \frac{40}{3,6} \right) + 2*5=21,11m/s \simeq 75km/h$$
+- Se a velocidade e aceleração tiverem sinais contrários o movimento é retardado, caso contrário, o movimento é acelerado.
+- Se a velocidade escalar possui sinal positivo o movimento é progressivo caso contrário o movimento é retrógrado.
+*Exemplo: um carro acelerando de ré possui o movimento acelerado e retrógrado. Enquanto um carro que está freando possui o movimento progressivo e retardado (até alcançar a velocidade nula e parar)*
 
-
+##### Função horária do espaço no MUV:
+- Todo MUV possui aceleração escalar constante e tempo e velocidade escalar variaveis. enquanto a velocidade é determinada pela função acima o **espaço** é determinado por:$$s=s_{0}+v_{0}t+\frac{\alpha}{2}t²$$
+- em que s0 é o espaço inicial, v0 é a velocidade escalar inicial e a é a aceleração escalar constante do MUV.
+- Para cada valor de t obtemos um único valor de s.

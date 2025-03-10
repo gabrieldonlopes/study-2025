@@ -50,7 +50,7 @@
 - Trabalho produtivo e não-produtivo
 - Força de trabalho e divisão do trabalho
 - Jornada de trabalho e exploração
-- Sistemas de organização do trabalho: Taylorismo, Fordismo e Toyotismo
+- Sistemas de organização do trabalho: [[Taylorismo]], Fordismo e Toyotismo
 ### Capitalismo e Sociedade
 - Processo de produção de mercadorias
 - Obsolescência programada e consumismo
