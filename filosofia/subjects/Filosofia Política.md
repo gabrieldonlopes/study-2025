@@ -37,3 +37,4 @@ A construção da cidade se dá em três etapas:
 
 ---
 ## Referências
+[leo-strauss-historia-da-filosofia-politica.pdf](file:///home/gdon/Documentos/artigos/livros-didaticos/leo-strauss-historia-da-filosofia-politica.pdf)

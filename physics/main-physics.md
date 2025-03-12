@@ -91,7 +91,7 @@
 - Lei de Coulomb
 - Campo e Potencial Elétrico
 - Capacitores e Gerador de Van de Graaff
-- Corrente Elétrica e Lei de Ohm
+- [[Corrente Elétrica]] e Lei de Ohm
 - Associação de Resistores
 - Potência Elétrica e Efeito Joule
 - Leis de Kirchhoff

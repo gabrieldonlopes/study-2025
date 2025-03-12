@@ -10,7 +10,7 @@
 - Fatoração de expressões algébricas
 - Produtos notáveis (quadrado da soma, quadrado da diferença, produto da soma pela diferença)
 
-### Potenciação e Radiciação
+### [[Potenciação e Radiciação]]
 - Propriedades das potências e raízes
 - Simplificação de expressões com potências e raízes
 

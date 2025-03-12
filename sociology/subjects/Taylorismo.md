@@ -27,7 +27,7 @@
 - A gerência deveria ser capaz de pré-planejar e pré-calcular todos os elementos do processo de trabalho.
 *Controle do trabalho: imposição ao trabalhador da maneira rigorosa pela qual o trabalho deve ser executado.*
 
-> "O uso prático dos dados científicos requer uma sala em que são guardados os livros, notações dos rendimentos máximos e uma mesa para o planejador das tarefas. Assim, todo o trabalho feito pelo operário no sistema antigo, como resultado de sua experiência pessoal, deve ser necessariamente aplicado pela direção no novo sistema." (TAYLOR,1987, apud RIBEIRO,2015,P.67)
+> "O uso prático dos dados científicos requer uma sala em que são guardadoFordismos os livros, notações dos rendimentos máximos e uma mesa para o planejador das tarefas. Assim, todo o trabalho feito pelo operário no sistema antigo, como resultado de sua experiência pessoal, deve ser necessariamente aplicado pela direção no novo sistema." (TAYLOR,1987, apud RIBEIRO,2015,P.67)
 
 > "Está claro, então, na maioria dos casos, que um tipo de homem é necessário para planejar e outro tipo diferente para executar o trabalho." (TAYLOR,1987, apud RIBEIRO,2015,P.67)
 

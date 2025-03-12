@@ -88,3 +88,4 @@ o paradigma pós-industrial e a desregulamentação da economia produzem o fenô
 ---
 ### Referência
 [Diálogos em Ciências Humanas: Importância do trabalho.pdf](file:///home/gdon/Documentos/artigos/livros-didaticos/Diálogos%20em%20Ciências%20Humanas:%20Importância%20do%20trabalho.pdf)
+
