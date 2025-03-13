@@ -1,3 +1,9 @@
+
+| Responsável             | Frederick Winslow Taylor    |
+| ----------------------- | --------------------------- |
+| **Época do surgimento** | 1856                        |
+| **Local**               | Midvale Steel Company - EUA |
+
 ## Contextualização
 - Final do século XIX e início do XX: consolidação de uma sociedade industrial.
 - Segunda Revolução industrial.
@@ -32,7 +38,7 @@
 > "Está claro, então, na maioria dos casos, que um tipo de homem é necessário para planejar e outro tipo diferente para executar o trabalho." (TAYLOR,1987, apud RIBEIRO,2015,P.67)
 
 - Exemplo prático:
-*Ao Estudar os movimentos realizados pelos trabalhadores da empresa Midvale Steel Company, Taylor percebeu que, quando os operários tinham um tempo de descanso entre a produção de uma peça e outra, o rendimento total aumentava*
+*Ao Estudar os movimentos realizados pelos trabalhadores da empresa Midvale Steel Company, Taylor percebeu que, quando os operários tinham um tempo de descanso entre a produção de uma peça e outra, o rendimento total aumentava*.
 
 > O processo de trabalho deve ser independente do ofício, da tradição e do conhecimento dos trabalhadores. Daí por diante deve depender não absolutamente das capacidades dos trabalhadores, mas inteiramentedas políticas gerenciais. (BRAVERMAN,1987, apud RIBEIRO,2015,P.67)
 ---

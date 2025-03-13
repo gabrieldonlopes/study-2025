@@ -4,7 +4,7 @@
 
 3. Com os algarismos 1, 2, 3, ..., 9, quantos números de quatro algarismos existem, em que pelo menos dois algarismos são iguais?
 
-4. De quantas formas 8 torres podem ser colocadas em um tabuleiro de xadrez sem que uma possa capturar a outra?
+4. De quantas formas 8 torres podem ser colocadas em um tabuleiro de xadrez semque uma possa capturar a outra?
 
 5. Uma palavra é formada por N vogais e N consoantes. De quantos modos distintos podem ser permutadas as letras dessa palavra, de modo que não apareçam juntas duas vogais ou duas consoantes?
 
@@ -26,10 +26,10 @@
 
 - a) Com reposição de cada bola após a extração?
 - b) Sem reposição de cada bola após a extração?
+ca
+1. Uma peça para ser fabricada deve passar por 7 máquinas, sendo que a operação de cada máquina independe das outras. De quantas formas as máquinas podem ser dispostas para montar a peça?
 
-14. Uma peça para ser fabricada deve passar por 7 máquinas, sendo que a operação de cada máquina independe das outras. De quantas formas as máquinas podem ser dispostas para montar a peça?
-
-15. Mostre que:
+2. Mostre que:
 
 - a) 5! + 7! ≠ 12!
 - b) 8! - 3! ≠ 5!
