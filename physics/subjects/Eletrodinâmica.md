@@ -1,4 +1,4 @@
-- Ao submeter um condutor a um gerador elétrico (que possui uma **diferença de potêncial** entre seus polos elétricos) seus elétrons livres passam a ser ordenados, orientando-se do ponto negativo ao positivo. Esse movimento é chamado de **corrente elétrica**.
+ - Ao submeter um condutor a um gerador elétrico (que possui uma **diferença de potêncial** entre seus polos elétricos) seus elétrons livres passam a ser ordenados, orientando-se do ponto negativo ao positivo. Esse movimento é chamado de **corrente elétrica**.
 - A parte da eletricidade que estuda a corrente elétrica é a **Eletrodinâmica**.
 ---
 #### Intensidade da corrente elétrica
@@ -23,11 +23,25 @@ a quantidade de carga é determinada pela quantidade de elétrons multiplicada p
 #### Circuito elétrico
 - É o conjunto de aparelhos com os quai se pode estabelecer uma corrente elétrica.
 - Para medir a amperagem o medidor (amperímetro) deve atravessar o circuito.
-- 
+
+---
+#### Efeitos da corrente elétrica:
+- A passagem de corrente elétrica tem quatro efeitos: **fisiológico, térmico (Joule), químico e magnético.**
+1. **Efeito fisiológico:** passagem de corrente por seres vivos, agindo diretamente no sistema nervoso provocando contrações musculares (choques elétricos). Podendo até mesmo afetar órgãos importantes como coração e pulmão.Podemos perceber choque de até 10mA, no entanto efeitos mais graves (contrações musculares) só são atingidos com valores de 10mA. O valor mortal está entre 10mA e 3A. Efeitos maiores não possuem efeitos mortais, mas, dependendo das circustâncias podem acarretar danos cerebrais graves.
+2. **Efeito térmico (Joule):** causado pelo choque de elétrons livres contra átomos dos condutores, recebendo energia e vibrando mais intensamente, consequentemente ocorre um aumento de temperatura.
+3. **Efeito químico:** Efeitos ocasionados quando a corrente elétrica atravessa soluções eletrolíticas.
+4. **Efeito magnético:** Criação de um **campo magnético** na região em torno da corrente.
+
+---
+#### Energia e Potência da corrente elétrica:
+
+$$Pot = U.i$$
+- Por sua vez, associando essa fórmula com as leis de Ohm temos:
+$Pot=R.i²$  e  $Pot = \frac{U²}{R}$
 
 
 
-
+---
 
 
 

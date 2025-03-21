@@ -1,7 +1,7 @@
 1. Quantos colares podemos formar usando quatro contas, todas diferentes?
 
 2. Quantos números pares de 3 algarismos distintos podemos formar com os algarismos 1, 3, 6, 7, 8, 9?
-
+z
 3. Com os algarismos 1, 2, 3, ..., 9, quantos números de quatro algarismos existem, em que pelo menos dois algarismos são iguais?
 
 4. De quantas formas 8 torres podem ser colocadas em um tabuleiro de xadrez semque uma possa capturar a outra?

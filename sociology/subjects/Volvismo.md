@@ -21,7 +21,7 @@
 - Altas taxas de **turnover**, absenteísmo crônico e utilização de mão-de-obra estrangeira.
 - Planejamento dos recursos humanos e tarefas distribuídas de acordo com as competências (caracterizando uma mão de obra altamente especializada).
 
-> "O toyotismo faz emergir homem reativo. Trata-se de um trabalhador mais complexo, sofisticado, integrado ao ambiente e 'possui visão global do processo, mas decisão limitada'".
+> "O volvismo faz emergir homem reativo. Trata-se de um trabalhador mais complexo, sofisticado, integrado ao ambiente e 'possui visão global do processo, mas decisão limitada'".
 
 ---
 ### Referências:

@@ -1,8 +1,8 @@
 
-| Responsável         |                   |
-| ------------------- | ----------------- |
-| Época de Surgimento | pós-guerra (1945) |
-| Local               | Toyoya, Japão     |
+| Responsável         | Taiichi Ohno e Eiji Toyoda |
+| ------------------- | -------------------------- |
+| Época de Surgimento | pós-guerra (1945)          |
+| Local               | Toyota, Japão              |
 
 ---
 - **Crise do Fordismo:** caráter estrutural e conjuntural, sendo diretamente assosciado ao desenvolvimento do capitalismo as crises do fordismo.

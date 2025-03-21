@@ -1,7 +1,7 @@
 # Roadmap de Estudos - Sociologia
 
 ## 1 Ano
-### Cultura e Sociedade
+### Cultura e [[Sociedade]]
 - O conceito de cultura
 - Identidade e alteridade
 - Cultura e ideologia

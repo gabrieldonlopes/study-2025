@@ -1,0 +1,2 @@
+- Permitem a passagem de informações adicionais nas mensagens de **response** e **request**.
+- 
